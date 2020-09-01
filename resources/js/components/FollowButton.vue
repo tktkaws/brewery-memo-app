@@ -29,7 +29,7 @@ export default {
   },
   computed: {
     buttonColor() {
-      return this.isFollowedBy ? "btn-mdb-color" : "btn-blue-grey";
+      return this.isFollowedBy ? "btn-mdb-color" : "btn-mdb-color";
     },
     buttonIcon() {
       return this.isFollowedBy ? "fas fa-user-check" : "fas fa-user-plus";
