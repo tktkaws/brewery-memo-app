@@ -52,4 +52,4 @@ CircleCI 導入に際してこちらのリポジトリ(Larabel アプリ単独)�
 
 ##### [wantedly](https://www.wantedly.com/users/113160879)
 
-##### [github profile](
+##### [github profile](https://github.com/tktkaws)
